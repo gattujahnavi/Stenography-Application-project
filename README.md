@@ -19,6 +19,7 @@ Installation
 1. Clone the Repository
    
    git clone https://github.com/your-username/Image-Steganography-Python.git
+   
    cd Image-Steganography-Python
     
 3. Install Dependencies
